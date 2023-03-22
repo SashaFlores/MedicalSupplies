@@ -1,3 +1,5 @@
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/04514ef4-e952-43c5-b6ca-115b67fa64a0/deploy-status)](https://app.netlify.com/sites/medicalsupplies/deploys)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
